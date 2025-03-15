@@ -9,14 +9,14 @@
     <a href="https://www.linkedin.com/in/giovani-melo-schitcoski-4b84a91a3/">
         <img 
             alt="linkedin" 
-            title="Linkedin" 
+            title="Meu Linkedin" 
             src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
         />
   </a>
     <a href="mailto:giovanimelo3007@gmail.com">
         <img 
-            alt="email" 
-            title="email" 
+            alt="Meu Email" 
+            title="" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     
